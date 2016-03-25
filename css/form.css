@@ -1,0 +1,19 @@
+/*** Form Elements ***/
+label {
+	display: inline-block;
+	width: 75px;
+}
+label.large {
+	width: 110px;
+}
+
+input[type="number"] {
+	width: 50px;
+}
+
+button.add_btn {
+	background-color: green;
+}
+button.del_btn {
+	background-color: red;
+}

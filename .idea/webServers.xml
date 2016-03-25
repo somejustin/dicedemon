@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7172100c-9f9d-44f3-8827-818885541dcf" name="Dice Demon" url="http://goblincode.com/dicedemon/">
+        <fileTransfer host="ftp.goblincode.com" port="21" rootFolder="/dicedemon/" password="dfeedfe3dfe9df8bdfc0df9ddf9fdfcbdf9ddf93" username="dicedemon">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

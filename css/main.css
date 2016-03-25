@@ -1,0 +1,41 @@
+#mainContainer {
+	width: 600px;
+	margin-left: auto;
+	margin-right: auto;
+	border: 1px solid #343642;
+	font-family: serif;
+}
+
+#mainHeader {
+	color: #962D3E;
+	background: #979C9C;
+	text-align: center;
+	border-bottom: 1px solid #343642;
+	font-size: 20px;
+	padding: 5px 0;
+	letter-spacing: 2px;
+}
+#mainHeader h1 {
+	vertical-align: middle;
+}
+
+#mainBody {
+/* 	background: #979C9C; */
+	padding: 20px 20px 10px 20px;
+	background: #FFF;
+	
+}
+#mainBody h2 {
+	font-size: 18px;
+}
+#mainBody .sectionBox {
+	border: 1px solid #343642;
+	margin-bottom: 15px;
+	padding: 10px;
+	background: #F2EBC7;
+	box-shadow: 5px 5px 5px #343642;
+}
+#mainBody  .sectionBox .col_50 {
+	display: inline-block;
+	width: 49%;
+}
